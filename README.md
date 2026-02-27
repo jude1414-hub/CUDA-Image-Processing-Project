@@ -67,4 +67,15 @@ Although GPU acceleration introduces parallel execution, performance depends on:
 For large-scale datasets, GPU acceleration becomes significantly more beneficial.
 
 ---
+## 📂 Repository Structure
+CUDA-Image-Processing-Project/
+│
+├── src/
+│ ├── main.cu
+│ ├── kernels.cu
+│
+├── images/
+├── CUDA_Image_Processing_Project_Report.pdf
+├── README.md
+└── Untitled30.ipynb
 
